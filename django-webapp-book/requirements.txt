@@ -6,7 +6,7 @@ Django==5.0.3
 django-bootstrap5==23.4
 djlint==1.34.1
 EditorConfig==0.12.4
-gunicorn==21.2.0
+gunicorn==22.0.0
 html-tag-names==0.1.2
 html-void-elements==0.1.0
 jsbeautifier==1.15.1
